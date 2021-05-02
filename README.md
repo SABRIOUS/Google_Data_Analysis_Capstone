@@ -36,7 +36,27 @@ pandas,Seaborn,NumPy
 
 ----------------
 ### 4- Analyze
-| First Header  | Second Header | third |
+
+| Description  | Casual Member | Annual Member |
 | ------------- | ------------- |------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Percentage  | 39%  |61%|
+| Common start station | Streeter Dr & Grand Ave  |Clark St & Elm St|
+| Common end station | Streeter Dr & Grand Ave |Clark St & Elm St|
+| Common start and end station  | Streeter Dr & Grand Ave  | MLK Jr Dr & 29th St:State St & 33rd St|
+| Average ride length  | 20.79 Minutes  |17.72 Minutes|
+| Max ride length  | 59 Minutes  |59 Minutes|
+| Common hour  | 17  |17|
+| Common day  | Saturday  |Wednesday|
+| Common month | August  |August|
+| Common rideable type | docked_bike  |docked_bike|
+| Count start Stations  | 687  |683|
+| Count end Stations  | 689  |681|
+| First_100_start_startion  | .54% of trips  |.49% of trips|
+| End_100_start_startion  | .55% of trips  |.49% of trips|
+
+
+---------------
+
+### 4- Share
+
+![percentage](p.png)
