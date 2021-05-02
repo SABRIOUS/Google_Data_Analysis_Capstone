@@ -57,6 +57,6 @@ pandas,Seaborn,NumPy
 
 ---------------
 
-### 4- Share
+### 4- Share Insights
 
-![percentage](p.png)
+![percentage](https://raw.githubusercontent.com/SABRIOUS/Google_Data_Analysis_Capstone/first/p.PNG)
